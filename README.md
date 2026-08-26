@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Baldeep one of the founders Silicon Studio 👋
 
-<!--
-**siliconstudios/siliconstudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer building bots, web apps & developer tools.
 
-Here are some ideas to get you started:
+I'm a developer focused on building practical projects and experimenting with new technologies. Currently working on **Silicon Studio** and expanding into AI-powered developer tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+
+- 🎵 **Wavieo** — Discord music bot
+- 🤖 **OmniVerse** — Multipurpose Discord bot
+- 💻 **Silicon Code** — Web-based code editor
+- 🧠 **SiliconFlux** — Experimental local coding AI
+
+## 🛠️ Tech Stack
+
+**Languages**
+- JavaScript
+- Python
+- HTML & CSS
+
+**Tools & Technologies**
+- Node.js
+- Discord.js
+- MongoDB
+- Git & GitHub
+
+## 🌱 Currently Learning
+
+- AI & local language models
+- Advanced JavaScript
+- Backend development
+- Git & GitHub
+
+---
+
+### Silicon Studio
+
+Building software, experimenting with ideas, and learning along the way.
