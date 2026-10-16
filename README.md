@@ -1,4 +1,4 @@
-# Hey, I'm Baldeep one of the founders Silicon Studio 👋
+# Hey, I'm Baldeep one of the founders Oxalic lab's 👋
 
 ### Developer building bots, web apps & developer tools.
 
