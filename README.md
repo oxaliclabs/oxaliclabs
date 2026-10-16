@@ -6,10 +6,10 @@ I'm a developer focused on building practical projects and experimenting with ne
 
 ## 🚀 What I'm Building
 
-- 🎵 **Wavieo** — Discord music bot
-- 🤖 **OmniVerse** — Multipurpose Discord bot
-- 💻 **Silicon Code** — Web-based code editor
-- 🧠 **SiliconFlux** — Experimental local coding AI
+- 🎵 **Wavieo** — Professional Discord music bot
+- 🎵 **Wavieo Air** — Responsive Discord music bot
+- 🤖 **OmniVerse** — All in one Discord Bot
+- 💻 **Oxalic Code** — Web-based code editor
 
 ## 🛠️ Tech Stack
 
